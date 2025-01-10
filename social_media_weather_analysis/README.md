@@ -10,33 +10,33 @@ This project explores how **Istanbul's 2024 weather** affects user engagement on
 
 📦 weather-social-media-analysis
 ├── 📂 data
-│ ├── istanbul_2024_weather.csv # Weather data for Istanbul in 2024
-│ ├── liked_comments.json # Instagram liked comments data
-│ ├── liked_posts.json # Instagram liked posts data
-│ └── user_data_tiktok.json # TikTok activity data
+│   ├── istanbul_2024_weather.csv        # Weather data for Istanbul in 2024  
+│   ├── liked_comments.json              # Instagram liked comments data  
+│   ├── liked_posts.json                 # Instagram liked posts data  
+│   └── user_data_tiktok.json            # TikTok activity data  
 ├── 📂 notebooks
-│ ├── 01_data_preprocessing.ipynb # Data loading and preprocessing
-│ ├── 02_exploratory_data_analysis.ipynb # Exploratory data analysis (EDA)
-│ ├── 03_statistical_analysis.ipynb # Correlation and statistical analysis
-│ └── 04_modeling.ipynb # Predictive modeling (Random Forest)
+│   ├── 01_data_preprocessing.ipynb      # Data loading and preprocessing  
+│   ├── 02_exploratory_data_analysis.ipynb # Exploratory data analysis (EDA)  
+│   ├── 03_statistical_analysis.ipynb    # Correlation and statistical analysis  
+│   └── 04_modeling.ipynb                # Predictive modeling (Random Forest)  
 ├── 📂 scripts
-│ ├── data_preprocessing.py # Data cleaning and merging
-│ ├── eda.py # EDA and visualizations
-│ ├── statistical_analysis.py # Correlation and statistical testing
-│ └── modeling.py # Predictive modeling logic
+│   ├── data_preprocessing.py            # Data cleaning and merging  
+│   ├── eda.py                           # EDA and visualizations  
+│   ├── statistical_analysis.py          # Correlation and statistical testing  
+│   └── modeling.py                      # Predictive modeling logic  
 ├── 📂 outputs
-│ ├── 📂 figures # Plots and visualizations
-│ │ ├── interaction_distribution.png
-│ │ ├── activity_over_time.png
-│ │ ├── activity_vs_temp.png
-│ │ └── weather_correlation_heatmap.png
-│ └── 📂 reports # Statistical results and model performance
-│ │ ├── correlation_temp.txt
-│ │ ├── model_evaluation.txt
-│ │ └── t_test_Rain.txt
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── .gitignore # Files to ignore in version control
+│   ├── 📂 figures                       # Plots and visualizations  
+│   │   ├── interaction_distribution.png  
+│   │   ├── activity_over_time.png  
+│   │   ├── activity_vs_temp.png  
+│   │   └── weather_correlation_heatmap.png  
+│   └── 📂 reports                      # Statistical results and model performance  
+│       ├── correlation_temp.txt  
+│       ├── t_test_Rain.txt  
+│       └── model_evaluation.txt  
+├── README.md                            # Project documentation  
+├── requirements.txt                     # Python dependencies  
+└── .gitignore                           # Files to ignore in version control  
 
 ---
 
