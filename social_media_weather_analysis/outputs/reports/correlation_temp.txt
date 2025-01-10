@@ -1,0 +1,2 @@
+Pearson Correlation between interactions and temp: -0.5920 (p-value: 0.0000)
+Spearman Correlation between interactions and temp: -0.5809 (p-value: 0.0000)

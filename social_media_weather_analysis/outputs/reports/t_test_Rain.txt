@@ -1,0 +1,2 @@
+T-Test comparing activity on 'Rain' days vs. other days:
+T-Statistic: 0.9799, P-Value: 0.3290
